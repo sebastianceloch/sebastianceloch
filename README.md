@@ -1,4 +1,4 @@
-# Welcome to my profile! 👋
+# Hello! 😎
 
 I'm a passionate programmer and a 23-year-old student. Below, you'll find a breakdown of my skills:
 
