@@ -1,7 +1,5 @@
 # Hello! 😎
 
-I'm a passionate programmer and a 23-year-old student. Below, you'll find a breakdown of my skills:
-
 ## Skills
 
 - **Python**
@@ -17,3 +15,34 @@ I'm a passionate programmer and a 23-year-old student. Below, you'll find a brea
 
 - **C++/Java**
   - Basic programming skills in C++ and Java
+
+## Projects
+- **Test Automation Using Selenium**
+  - Developed automated tests using Selenium.
+  - Created comprehensive documentation for test scenarios.
+  - Conducted unit tests to ensure code quality.
+ 
+  - **Django Todo List Web Application**
+  - Designed and implemented a todo list web application using Django.
+  - Integrated features for task management and user authentication.
+ 
+  - **Unity Game Projects**
+  - **Course Project: Simple Platformer**
+    - Implemented a simple platformer with a more complex player movement script.
+
+  - **Engineering Thesis: 2D Top-Down SimFarm RPG**
+    - Developed a 2D top-down simulation farming RPG as part of my Engineering Thesis.
+    - Implemented an intelligent algorithm that learns and remembers user actions.
+    - The algorithm provides tips to players on how to prosper on the farm based on their actions.
+
+  - **Current Project: Rogue-Like Game**
+    - Currently working on creating a rogue-like game.
+   
+  ## Education
+  
+- **Computer Science Student**
+- **I graduated from an IT technical school with a certificate E12/E13/E14**
+
+## Contact
+
+- 📧 Email: CelejKontakt@gmail.com
