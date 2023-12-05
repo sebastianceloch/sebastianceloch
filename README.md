@@ -41,7 +41,6 @@
   ## Education
   
 - **Computer Science Student**
-- **I graduated from an IT technical school with a certificate E12/E13/E14**
 
 ## Contact
 
