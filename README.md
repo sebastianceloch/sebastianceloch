@@ -1,16 +1,19 @@
-### Hi there 👋
+# Welcome to my profile! 👋
 
-<!--
-**sebastianceloch/sebastianceloch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate programmer and a 23-year-old student. Below, you'll find a breakdown of my skills:
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python**
+  - Test automation with Selenium
+  - Data visualization
+  - Web application development with Django
+
+- **JavaScript**
+  - Building interactive interfaces using React.js
+
+- **C#**
+  - Game development in Unity
+
+- **C++/Java**
+  - Basic programming skills in C++ and Java
