@@ -22,11 +22,11 @@
   - Created comprehensive documentation for test scenarios.
   - Conducted unit tests to ensure code quality.
  
-  - **Django Todo List Web Application**
+- **Django Todo List Web Application**
   - Designed and implemented a todo list web application using Django.
   - Integrated features for task management and user authentication.
  
-  - **Unity Game Projects**
+- **Unity Game Projects**
   - **Course Project: Simple Platformer**
     - Implemented a simple platformer with a more complex player movement script.
 
