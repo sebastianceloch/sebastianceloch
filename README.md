@@ -2,6 +2,9 @@
 
 ## Skills
 
+- **C#**
+  - Game development in Unity
+  
 - **Python**
   - Test automation with Selenium
   - Data visualization
@@ -10,8 +13,6 @@
 - **JavaScript**
   - Building interactive interfaces using React.js
 
-- **C#**
-  - Game development in Unity
 
 - **C++/Java**
   - Basic programming skills in C++ and Java
