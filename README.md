@@ -34,6 +34,7 @@
 - Placepicker [https://github.com/sebastianceloch/Placepicker-ReactJS](https://github.com/sebastianceloch/Placepicker-ReactJS)
 - Final Countdown Game [https://github.com/sebastianceloch/FinalCountdownGame_ReactJS](https://github.com/sebastianceloch/FinalCountdownGame_ReactJS)
 - Simple Management App [https://github.com/sebastianceloch/ManagementApp-ReactJS](https://github.com/sebastianceloch/ManagementApp-ReactJS)
+- Booking.com Clone (Master's thesis) - In Progress
 
 - **Test Automation Using Selenium**
   - Developed automated tests using Selenium.
@@ -52,9 +53,6 @@
     - Developed a 2D top-down simulation farming RPG as part of my Engineering Thesis.
     - Implemented an intelligent algorithm that learns and remembers user actions.
     - The algorithm provides tips to players on how to prosper on the farm based on their actions.
-
-  - **Current Project: Rogue-Like Game**
-    - Currently working on creating a rogue-like game.
    
   ## Education
   
