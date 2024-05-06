@@ -61,4 +61,4 @@
 
 ## Contact
 
-- 📧 Email: CelejKontakt@gmail.com
+- 📧 Email: celochsebastian@gmail.com
