@@ -34,6 +34,7 @@
 - Placepicker [https://github.com/sebastianceloch/Placepicker-ReactJS](https://github.com/sebastianceloch/Placepicker-ReactJS)
 - Final Countdown Game [https://github.com/sebastianceloch/FinalCountdownGame_ReactJS](https://github.com/sebastianceloch/FinalCountdownGame_ReactJS)
 - Simple Management App [https://github.com/sebastianceloch/ManagementApp-ReactJS](https://github.com/sebastianceloch/ManagementApp-ReactJS)
+- FoodApp [https://github.com/sebastianceloch/FoodApp-NextJS](https://github.com/sebastianceloch/FoodApp-NextJS) - In Progress
 - Booking.com Clone (Master's thesis) - In Progress
 
 - **Test Automation Using Selenium**
