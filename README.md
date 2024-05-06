@@ -2,22 +2,39 @@
 
 ## Skills
 
-- **C#**
-  - Game development in Unity
-  
+- **ReactJS**
+- Building interactive apps
+- React Redux
+- React Router
+- TanStack Query
+- Context API
+- React Hooks
+
 - **Python**
   - Test automation with Selenium
   - Data visualization
   - Web application development with Django
 
-- **JavaScript**
-  - Building interactive interfaces using React.js
+- **C#**
+  - Game development in Unity
 
+- **JavaScript**
+  - Building interactive interfaces using React.js and plain JavaScript with HTML and CSS.
 
 - **C++/Java**
   - Basic programming skills in C++ and Java
 
 ## Projects
+
+- **ReactJS Projects**
+- QuizApp [https://github.com/sebastianceloch/QuizApp-ReactJS](https://github.com/sebastianceloch/QuizApp-ReactJS)
+- Event Organiser [https://github.com/sebastianceloch/EventOrganiser-ReactJS](https://github.com/sebastianceloch/EventOrganiser-ReactJS)
+- Tic-Tac-Toe Game [https://github.com/sebastianceloch/TicTacToe-ReactJS](https://github.com/sebastianceloch/TicTacToe-ReactJS)
+- Food Order App [https://github.com/sebastianceloch/FoodOrderApp_ReactJS](https://github.com/sebastianceloch/FoodOrderApp_ReactJS)
+- Placepicker [https://github.com/sebastianceloch/Placepicker-ReactJS](https://github.com/sebastianceloch/Placepicker-ReactJS)
+- Final Countdown Game [https://github.com/sebastianceloch/FinalCountdownGame_ReactJS](https://github.com/sebastianceloch/FinalCountdownGame_ReactJS)
+- Simple Management App [https://github.com/sebastianceloch/ManagementApp-ReactJS](https://github.com/sebastianceloch/ManagementApp-ReactJS)
+
 - **Test Automation Using Selenium**
   - Developed automated tests using Selenium.
   - Created comprehensive documentation for test scenarios.
