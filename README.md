@@ -56,8 +56,8 @@
     - The algorithm provides tips to players on how to prosper on the farm based on their actions.
    
   ## Education
-  
-- **Computer Science Student**
+- **B.S. Computer Science**
+- **Master's degree CS - 2024-Now**
 
 ## Contact
 
