@@ -3,12 +3,12 @@
 ## Skills
 
 - **ReactJS**
-- Building interactive apps
-- React Redux
-- React Router
-- TanStack Query
-- Context API
-- React Hooks
+  - Building interactive apps
+  - React Redux
+  - React Router
+  - TanStack Query
+  - Context API
+  - React Hooks
 
 - **Python**
   - Test automation with Selenium
@@ -21,8 +21,8 @@
 - **JavaScript**
   - Building interactive interfaces using React.js and plain JavaScript with HTML and CSS.
 
-- **C++/Java**
-  - Basic programming skills in C++ and Java
+- **C++/C#/C/Java**
+  - Basic programming skills in those languages.
 
 ## Projects
 
