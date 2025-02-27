@@ -2,27 +2,14 @@
 
 ## Skills
 
-- **ReactJS**
-  - Building interactive apps
-  - React Redux
-  - React Router
-  - TanStack Query
-  - Context API
-  - React Hooks
-
+- **React**
+- **Vue**
+- **Laravel**
+- **Typescript/Javascript**
+- **MYSQL**
+- **MONGODB**
 - **Python**
-  - Test automation with Selenium
-  - Data visualization
-  - Web application development with Django
 
-- **C#**
-  - Game development in Unity
-
-- **JavaScript**
-  - Building interactive interfaces using React.js and plain JavaScript with HTML and CSS.
-
-- **C++/C#/C/Java**
-  - Basic programming skills in those languages.
 
 ## Projects
 
